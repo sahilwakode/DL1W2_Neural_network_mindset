@@ -1,1 +1,1 @@
-# DL1W2_Neural_network_mindset
+# DL1_Neural_network_Assignments
